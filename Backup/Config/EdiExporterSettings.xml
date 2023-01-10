@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EdiExporterSettings>
+	<EdiWatchDirectory>..\\EDIs</EdiWatchDirectory>
+	<EdiCopyDirectory>..\\EDIs</EdiCopyDirectory>
+
+	<EdiFileHeaders>
+		<EdiFileHeader DataProperty="CUSTOMER" HeaderText="Customer" />
+		<EdiFileHeader DataProperty="PART_NUMBER" HeaderText="PART_NUM" />
+		<EdiFileHeader DataProperty="SHIP_QUANTITY" HeaderText="SHIP_QUANTITY" />
+		<EdiFileHeader DataProperty="ORDER_NUMBER" HeaderText="ORDER_NUM" />
+		<!--<EdiFileHeader DataProperty="SCHED_SHIP_DTM" HeaderText="CUSTOMER_SHIP_DATE" />
+		<EdiFileHeader DataProperty="SCHED_SHIP_DTM" HeaderText="SHIP_TIME" />-->
+	</EdiFileHeaders>
+</EdiExporterSettings>

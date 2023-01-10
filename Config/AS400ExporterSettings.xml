@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AS400ExporterSettings>
+	<HideConsole>false</HideConsole>
+	<AS400IpAddress>10.204.1.26</AS400IpAddress>
+	<AS400Port>23</AS400Port>
+	<AS400ExportStart>100</AS400ExportStart>
+	<AS400ExportRange>30</AS400ExportRange>
+	<EmailSleepInterval>30000</EmailSleepInterval>
+	<AS400ExportTimeLimit>300000</AS400ExportTimeLimit>
+
+	<AS400UserName>NDA21</AS400UserName>
+	<AS400Password>NDA_Admi4</AS400Password>
+
+	<EdiEmailAddress>ntnandersonit@gmail.com</EdiEmailAddress>
+	<EdiEmailPassword>vvlbzcnewwmkdmvs1</EdiEmailPassword>
+
+	<GoogleImapAddress>imap.gmail.com</GoogleImapAddress>
+	<GoogleImapPort>993</GoogleImapPort>
+</AS400ExporterSettings>

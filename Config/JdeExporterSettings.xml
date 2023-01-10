@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<JdeExporterSettings>
+	<ExportFileDirectory>..\Exports</ExportFileDirectory>
+	<ExportFilePath>..\Exports\{0}.csv</ExportFilePath>
+	<ItemMasterFileName>JdeItemMaster</ItemMasterFileName>
+	<ItemAvailabilityFileName>JdeItemAvailability</ItemAvailabilityFileName>
+	<JDEExportDirectory>C:\\Downloads</JDEExportDirectory>
+	<JDEExportFilePath>C:\\Downloads\\{0}.csv</JDEExportFilePath>
+
+	<SeleniumTryLimit>3</SeleniumTryLimit>
+	<SeleniumImplicitWait>15</SeleniumImplicitWait>
+	<SeleniumHeadless>false</SeleniumHeadless>
+	<ChromeExePath>C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe</ChromeExePath>
+
+	<JDEUsername>TTrace</JDEUsername>
+	<JDEPassword>TTrace</JDEPassword>
+
+	<ItemMasterBrowser>V4104A</ItemMasterBrowser>
+	<ItemAvailabilityBrowser>V41021A</ItemAvailabilityBrowser>
+	
+	<JDEUrl>https://ntnpd.opc.oracleoutsourcing.com/jde/E1Menu.maf</JDEUrl>
+	<JDEDataBrowserUrl>https://ntnpd.opc.oracleoutsourcing.com/jde/DataBrowser.mafService?e1UserActInfo=true{0}&amp;e1.mode;=view{1}&amp;e1.namespace;={2}&amp;RENDER_MAFLET;=E1Menu{3}&amp;e1.state;=maximized{4}&amp;e1.service;=DataBrowser</JDEDataBrowserUrl>
+</JdeExporterSettings>

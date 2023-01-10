@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SystemSettings>
+	<SmtpPort>25</SmtpPort>
+	<SmtpAddress>10.201.50.5</SmtpAddress>
+	
+	<GeneratedEmailSenderAddress>Traceability@ntnanderson.com</GeneratedEmailSenderAddress>
+	<GeneratedEmailRecipients>
+		<EmailRecipient>nda_it@ntnanderson.com</EmailRecipient>
+		<EmailRecipient>EDI_REPORTS@NTNANDERSON.COM</EmailRecipient>
+	</GeneratedEmailRecipients>
+</SystemSettings>
